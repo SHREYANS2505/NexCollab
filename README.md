@@ -1,10 +1,8 @@
 # NexCollab
 
-# IESCP (Influencer Engagement and Sponsorship Coordination Platform)
-
 ## Overview
 
-IESCP is a platform designed to streamline the collaboration between sponsors and influencers. It allows sponsors to create and manage campaigns, send ad requests to influencers, and search for influencers. Influencers can view and accept/reject ad requests from sponsors, and they can also explore public campaigns and send ad requests to sponsors, initiating collaborations from their side.
+NexCollab is a platform designed to streamline the collaboration between sponsors and influencers. It allows sponsors to create and manage campaigns, send ad requests to influencers, and search for influencers. Influencers can view and accept/reject ad requests from sponsors, and they can also explore public campaigns and send ad requests to sponsors, initiating collaborations from their side.
 
 ## Features
 
@@ -56,7 +54,7 @@ The database will be created automatically on first run.
 
 ## File Structure
 ```
-IESCP/
+NexCollab/
 │
 ├── static/
 │   └── css/
@@ -66,7 +64,7 @@ IESCP/
 ├── requirements.txt          # Project dependencies
 ├── README.md                 # Project documentation
 ```
-# Admin: admin / admin2024
+# Admin: admin / admin2025
 
 Sponsors: Use company name as username (e.g., technovasolutions) / Sponsor123!
 
