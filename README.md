@@ -40,7 +40,7 @@ IESCP is a platform designed to streamline the collaboration between sponsors an
 
 1. **Clone the repository:**
    ```
-   git clone 
+   git clone https://github.com/SHREYANS2505/NexCollab.git
    cd IESCP
    ```
 
